@@ -1,2 +1,2 @@
 # devops-stuff
-All devOops
+All devOops stuff
